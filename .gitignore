@@ -1,0 +1,14 @@
+# Entorno virtual
+vlist_tareas/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Base de datos (opcional, bórralo si quieres subirla)
+db.sqlite3
+
+# Archivos de VS Code
+.vscode/
